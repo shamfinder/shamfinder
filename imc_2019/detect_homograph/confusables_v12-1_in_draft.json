@@ -1,0 +1,1030 @@
+{
+    "1": [
+        {
+            "block": "Basic Latin",
+            "char": "l",
+            "demical": 108,
+            "name": "LATIN SMALL LETTER L"
+        }
+    ],
+    "2": [
+        {
+            "block": "Unified Canadian Aboriginal Syllabics",
+            "char": "ᒿ",
+            "demical": 5311,
+            "name": "CANADIAN SYLLABICS SAYISI M"
+        }
+    ],
+    "3": [
+        {
+            "block": "Warang Citi",
+            "char": "𑣊",
+            "demical": 71882,
+            "name": "WARANG CITI SMALL LETTER ANG"
+        },
+        {
+            "block": "Miao",
+            "char": "𖼻",
+            "demical": 94011,
+            "name": "MIAO LETTER ZA"
+        }
+    ],
+    "4": [
+        {
+            "block": "Cherokee",
+            "char": "Ꮞ",
+            "demical": 5070,
+            "name": "CHEROKEE LETTER SE"
+        }
+    ],
+    "6": [
+        {
+            "block": "Warang Citi",
+            "char": "𑣕",
+            "demical": 71893,
+            "name": "WARANG CITI SMALL LETTER AT"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "б",
+            "demical": 1073,
+            "name": "CYRILLIC SMALL LETTER BE"
+        },
+        {
+            "block": "Cherokee",
+            "char": "Ꮾ",
+            "demical": 5102,
+            "name": "CHEROKEE LETTER WV"
+        }
+    ],
+    "7": [
+        {
+            "block": "Warang Citi",
+            "char": "𑣆",
+            "demical": 71878,
+            "name": "WARANG CITI SMALL LETTER II"
+        }
+    ],
+    "8": [
+        {
+            "block": "Gurmukhi",
+            "char": "੪",
+            "demical": 2666,
+            "name": "GURMUKHI DIGIT FOUR"
+        },
+        {
+            "block": "Latin Extended-B",
+            "char": "ȣ",
+            "demical": 547,
+            "name": "LATIN SMALL LETTER OU"
+        },
+        {
+            "block": "Oriya",
+            "char": "ଃ",
+            "demical": 2819,
+            "name": "ORIYA SIGN VISARGA"
+        },
+        {
+            "block": "Bengali",
+            "char": "৪",
+            "demical": 2538,
+            "name": "BENGALI DIGIT FOUR"
+        },
+        {
+            "block": "Old Italic",
+            "char": "𐌚",
+            "demical": 66330,
+            "name": "OLD ITALIC LETTER EF"
+        }
+    ],
+    "9": [
+        {
+            "block": "Gurmukhi",
+            "char": "੧",
+            "demical": 2663,
+            "name": "GURMUKHI DIGIT ONE"
+        },
+        {
+            "block": "Malayalam",
+            "char": "൭",
+            "demical": 3437,
+            "name": "MALAYALAM DIGIT SEVEN"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣌",
+            "demical": 71884,
+            "name": "WARANG CITI SMALL LETTER KO"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣖",
+            "demical": 71894,
+            "name": "WARANG CITI SMALL LETTER AM"
+        },
+        {
+            "block": "Bengali",
+            "char": "৭",
+            "demical": 2541,
+            "name": "BENGALI DIGIT SEVEN"
+        },
+        {
+            "block": "Oriya",
+            "char": "୨",
+            "demical": 2920,
+            "name": "ORIYA DIGIT TWO"
+        }
+    ],
+    "a": [
+        {
+            "block": "IPA Extensions",
+            "char": "ɑ",
+            "demical": 593,
+            "name": "LATIN SMALL LETTER ALPHA"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "а",
+            "demical": 1072,
+            "name": "CYRILLIC SMALL LETTER A"
+        },
+        {
+            "block": "Greek and Coptic",
+            "char": "α",
+            "demical": 945,
+            "name": "GREEK SMALL LETTER ALPHA"
+        }
+    ],
+    "b": [
+        {
+            "block": "Unified Canadian Aboriginal Syllabics",
+            "char": "ᑲ",
+            "demical": 5234,
+            "name": "CANADIAN SYLLABICS KA"
+        },
+        {
+            "block": "Unified Canadian Aboriginal Syllabics",
+            "char": "ᖯ",
+            "demical": 5551,
+            "name": "CANADIAN SYLLABICS AIVILIK B"
+        },
+        {
+            "block": "Cherokee",
+            "char": "Ꮟ",
+            "demical": 5071,
+            "name": "CHEROKEE LETTER SI"
+        }
+    ],
+    "c": [
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴄ",
+            "demical": 7428,
+            "name": "LATIN LETTER SMALL CAPITAL C"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "с",
+            "demical": 1089,
+            "name": "CYRILLIC SMALL LETTER ES"
+        },
+        {
+            "block": "Coptic",
+            "char": "ⲥ",
+            "demical": 11429,
+            "name": "COPTIC SMALL LETTER SIMA"
+        },
+        {
+            "block": "Deseret",
+            "char": "𐐽",
+            "demical": 66621,
+            "name": "DESERET SMALL LETTER CHEE"
+        }
+    ],
+    "d": [
+        {
+            "block": "Cherokee",
+            "char": "Ꮷ",
+            "demical": 5095,
+            "name": "CHEROKEE LETTER TSU"
+        },
+        {
+            "block": "Cyrillic Supplement",
+            "char": "ԁ",
+            "demical": 1281,
+            "name": "CYRILLIC SMALL LETTER KOMI DE"
+        },
+        {
+            "block": "Unified Canadian Aboriginal Syllabics",
+            "char": "ᑯ",
+            "demical": 5231,
+            "name": "CANADIAN SYLLABICS KO"
+        },
+        {
+            "block": "Lisu",
+            "char": "ꓒ",
+            "demical": 42194,
+            "name": "LISU LETTER PHA"
+        }
+    ],
+    "e": [
+        {
+            "block": "Cyrillic",
+            "char": "ҽ",
+            "demical": 1213,
+            "name": "CYRILLIC SMALL LETTER ABKHASIAN CHE"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "е",
+            "demical": 1077,
+            "name": "CYRILLIC SMALL LETTER IE"
+        },
+        {
+            "block": "Latin Extended-E",
+            "char": "ꬲ",
+            "demical": 43826,
+            "name": "LATIN SMALL LETTER BLACKLETTER E"
+        }
+    ],
+    "f": [
+        {
+            "block": "Latin Extended-E",
+            "char": "ꬵ",
+            "demical": 43829,
+            "name": "LATIN SMALL LETTER LENIS F"
+        },
+        {
+            "block": "Armenian",
+            "char": "ք",
+            "demical": 1412,
+            "name": "ARMENIAN SMALL LETTER KEH"
+        },
+        {
+            "block": "Latin Extended Additional",
+            "char": "ẝ",
+            "demical": 7837,
+            "name": "LATIN SMALL LETTER LONG S WITH HIGH STROKE"
+        },
+        {
+            "block": "Latin Extended-D",
+            "char": "ꞙ",
+            "demical": 42905,
+            "name": "LATIN SMALL LETTER F WITH STROKE"
+        }
+    ],
+    "g": [
+        {
+            "block": "Latin Extended-B",
+            "char": "ƍ",
+            "demical": 397,
+            "name": "LATIN SMALL LETTER TURNED DELTA"
+        },
+        {
+            "block": "Armenian",
+            "char": "ց",
+            "demical": 1409,
+            "name": "ARMENIAN SMALL LETTER CO"
+        },
+        {
+            "block": "Phonetic Extensions Supplement",
+            "char": "ᶃ",
+            "demical": 7555,
+            "name": "LATIN SMALL LETTER G WITH PALATAL HOOK"
+        },
+        {
+            "block": "IPA Extensions",
+            "char": "ɡ",
+            "demical": 609,
+            "name": "LATIN SMALL LETTER SCRIPT G"
+        }
+    ],
+    "h": [
+        {
+            "block": "Cyrillic",
+            "char": "һ",
+            "demical": 1211,
+            "name": "CYRILLIC SMALL LETTER SHHA"
+        },
+        {
+            "block": "Armenian",
+            "char": "հ",
+            "demical": 1392,
+            "name": "ARMENIAN SMALL LETTER HO"
+        },
+        {
+            "block": "Cherokee",
+            "char": "Ꮒ",
+            "demical": 5058,
+            "name": "CHEROKEE LETTER NI"
+        }
+    ],
+    "i": [
+        {
+            "block": "Cyrillic",
+            "char": "і",
+            "demical": 1110,
+            "name": "CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I"
+        },
+        {
+            "block": "Greek and Coptic",
+            "char": "ι",
+            "demical": 953,
+            "name": "GREEK SMALL LETTER IOTA"
+        },
+        {
+            "block": "Latin Extended-A",
+            "char": "ı",
+            "demical": 305,
+            "name": "LATIN SMALL LETTER DOTLESS I"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣃",
+            "demical": 71875,
+            "name": "WARANG CITI SMALL LETTER YU"
+        },
+        {
+            "block": "IPA Extensions",
+            "char": "ɪ",
+            "demical": 618,
+            "name": "LATIN LETTER SMALL CAPITAL I"
+        },
+        {
+            "block": "Cherokee",
+            "char": "Ꭵ",
+            "demical": 5029,
+            "name": "CHEROKEE LETTER V"
+        },
+        {
+            "block": "Cyrillic Extended-B",
+            "char": "ꙇ",
+            "demical": 42567,
+            "name": "CYRILLIC SMALL LETTER IOTA"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "ӏ",
+            "demical": 1231,
+            "name": "CYRILLIC SMALL LETTER PALOCHKA"
+        },
+        {
+            "block": "IPA Extensions",
+            "char": "ɩ",
+            "demical": 617,
+            "name": "LATIN SMALL LETTER IOTA"
+        }
+    ],
+    "j": [
+        {
+            "block": "Greek and Coptic",
+            "char": "ϳ",
+            "demical": 1011,
+            "name": "GREEK LETTER YOT"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "ј",
+            "demical": 1112,
+            "name": "CYRILLIC SMALL LETTER JE"
+        }
+    ],
+    "l": [
+        {
+            "block": "Runic",
+            "char": "ᛁ",
+            "demical": 5825,
+            "name": "RUNIC LETTER ISAZ IS ISS I"
+        },
+        {
+            "block": "Tifinagh",
+            "char": "ⵏ",
+            "demical": 11599,
+            "name": "TIFINAGH LETTER YAN"
+        },
+        {
+            "block": "Hebrew",
+            "char": "ן",
+            "demical": 1503,
+            "name": "HEBREW LETTER FINAL NUN"
+        },
+        {
+            "block": "Arabic",
+            "char": "ا",
+            "demical": 1575,
+            "name": "ARABIC LETTER ALEF"
+        },
+        {
+            "block": "NKo",
+            "char": "ߊ",
+            "demical": 1994,
+            "name": "NKO LETTER A"
+        },
+        {
+            "block": "Miao",
+            "char": "𖼨",
+            "demical": 93992,
+            "name": "MIAO LETTER GHA"
+        },
+        {
+            "block": "Lycian",
+            "char": "𐊊",
+            "demical": 66186,
+            "name": "LYCIAN LETTER J"
+        },
+        {
+            "block": "Latin Extended-B",
+            "char": "ǀ",
+            "demical": 448,
+            "name": "LATIN LETTER DENTAL CLICK"
+        },
+        {
+            "block": "Basic Latin",
+            "char": "1",
+            "demical": 49,
+            "name": "DIGIT ONE"
+        },
+        {
+            "block": "Hebrew",
+            "char": "ו",
+            "demical": 1493,
+            "name": "HEBREW LETTER VAV"
+        },
+        {
+            "block": "Old Italic",
+            "char": "𐌉",
+            "demical": 66313,
+            "name": "OLD ITALIC LETTER I"
+        },
+        {
+            "block": "Lisu",
+            "char": "ꓲ",
+            "demical": 42226,
+            "name": "LISU LETTER I"
+        }
+    ],
+    "n": [
+        {
+            "block": "Armenian",
+            "char": "ռ",
+            "demical": 1404,
+            "name": "ARMENIAN SMALL LETTER RA"
+        },
+        {
+            "block": "Armenian",
+            "char": "ո",
+            "demical": 1400,
+            "name": "ARMENIAN SMALL LETTER VO"
+        }
+    ],
+    "o": [
+        {
+            "block": "Cyrillic",
+            "char": "о",
+            "demical": 1086,
+            "name": "CYRILLIC SMALL LETTER O"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣈",
+            "demical": 71880,
+            "name": "WARANG CITI SMALL LETTER E"
+        },
+        {
+            "block": "Deseret",
+            "char": "𐐬",
+            "demical": 66604,
+            "name": "DESERET SMALL LETTER LONG O"
+        },
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴑ",
+            "demical": 7441,
+            "name": "LATIN SMALL LETTER SIDEWAYS O"
+        },
+        {
+            "block": "Greek and Coptic",
+            "char": "σ",
+            "demical": 963,
+            "name": "GREEK SMALL LETTER SIGMA"
+        },
+        {
+            "block": "Coptic",
+            "char": "ⲟ",
+            "demical": 11423,
+            "name": "COPTIC SMALL LETTER O"
+        },
+        {
+            "block": "Arabic",
+            "char": "ە",
+            "demical": 1749,
+            "name": "ARABIC LETTER AE"
+        },
+        {
+            "block": "Georgian",
+            "char": "ჿ",
+            "demical": 4351,
+            "name": "GEORGIAN LETTER LABIAL SIGN"
+        },
+        {
+            "block": "Malayalam",
+            "char": "൦",
+            "demical": 3430,
+            "name": "MALAYALAM DIGIT ZERO"
+        },
+        {
+            "block": "Devanagari",
+            "char": "०",
+            "demical": 2406,
+            "name": "DEVANAGARI DIGIT ZERO"
+        },
+        {
+            "block": "Gujarati",
+            "char": "૦",
+            "demical": 2790,
+            "name": "GUJARATI DIGIT ZERO"
+        },
+        {
+            "block": "Tamil",
+            "char": "௦",
+            "demical": 3046,
+            "name": "TAMIL DIGIT ZERO"
+        },
+        {
+            "block": "Thai",
+            "char": "๐",
+            "demical": 3664,
+            "name": "THAI DIGIT ZERO"
+        },
+        {
+            "block": "Myanmar",
+            "char": "၀",
+            "demical": 4160,
+            "name": "MYANMAR DIGIT ZERO"
+        },
+        {
+            "block": "Arabic",
+            "char": "ھ",
+            "demical": 1726,
+            "name": "ARABIC LETTER HEH DOACHASHMEE"
+        },
+        {
+            "block": "Telugu",
+            "char": "౦",
+            "demical": 3174,
+            "name": "TELUGU DIGIT ZERO"
+        },
+        {
+            "block": "Telugu",
+            "char": "ం",
+            "demical": 3074,
+            "name": "TELUGU SIGN ANUSVARA"
+        },
+        {
+            "block": "Armenian",
+            "char": "օ",
+            "demical": 1413,
+            "name": "ARMENIAN SMALL LETTER OH"
+        },
+        {
+            "block": "Malayalam",
+            "char": "ം",
+            "demical": 3330,
+            "name": "MALAYALAM SIGN ANUSVARA"
+        },
+        {
+            "block": "Hebrew",
+            "char": "ס",
+            "demical": 1505,
+            "name": "HEBREW LETTER SAMEKH"
+        },
+        {
+            "block": "Arabic",
+            "char": "ه",
+            "demical": 1607,
+            "name": "ARABIC LETTER HEH"
+        },
+        {
+            "block": "Myanmar",
+            "char": "ဝ",
+            "demical": 4125,
+            "name": "MYANMAR LETTER WA"
+        },
+        {
+            "block": "Kannada",
+            "char": "೦",
+            "demical": 3302,
+            "name": "KANNADA DIGIT ZERO"
+        },
+        {
+            "block": "Arabic",
+            "char": "ہ",
+            "demical": 1729,
+            "name": "ARABIC LETTER HEH GOAL"
+        },
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴏ",
+            "demical": 7439,
+            "name": "LATIN LETTER SMALL CAPITAL O"
+        },
+        {
+            "block": "Malayalam",
+            "char": "ഠ",
+            "demical": 3360,
+            "name": "MALAYALAM LETTER TTHA"
+        },
+        {
+            "block": "Gurmukhi",
+            "char": "੦",
+            "demical": 2662,
+            "name": "GURMUKHI DIGIT ZERO"
+        },
+        {
+            "block": "Lao",
+            "char": "໐",
+            "demical": 3792,
+            "name": "LAO DIGIT ZERO"
+        },
+        {
+            "block": "Kannada",
+            "char": "ಂ",
+            "demical": 3202,
+            "name": "KANNADA SIGN ANUSVARA"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣗",
+            "demical": 71895,
+            "name": "WARANG CITI SMALL LETTER BU"
+        },
+        {
+            "block": "Latin Extended-E",
+            "char": "ꬽ",
+            "demical": 43837,
+            "name": "LATIN SMALL LETTER BLACKLETTER O"
+        },
+        {
+            "block": "Sinhala",
+            "char": "ං",
+            "demical": 3458,
+            "name": "SINHALA SIGN ANUSVARAYA"
+        },
+        {
+            "block": "Osage",
+            "char": "𐓪",
+            "demical": 66794,
+            "name": "unknown"
+        },
+        {
+            "block": "Greek and Coptic",
+            "char": "ο",
+            "demical": 959,
+            "name": "GREEK SMALL LETTER OMICRON"
+        }
+    ],
+    "p": [
+        {
+            "block": "Greek and Coptic",
+            "char": "ρ",
+            "demical": 961,
+            "name": "GREEK SMALL LETTER RHO"
+        },
+        {
+            "block": "Coptic",
+            "char": "ⲣ",
+            "demical": 11427,
+            "name": "COPTIC SMALL LETTER RO"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "р",
+            "demical": 1088,
+            "name": "CYRILLIC SMALL LETTER ER"
+        }
+    ],
+    "q": [
+        {
+            "block": "Armenian",
+            "char": "զ",
+            "demical": 1382,
+            "name": "ARMENIAN SMALL LETTER ZA"
+        },
+        {
+            "block": "Cyrillic Supplement",
+            "char": "ԛ",
+            "demical": 1307,
+            "name": "CYRILLIC SMALL LETTER QA"
+        },
+        {
+            "block": "Armenian",
+            "char": "գ",
+            "demical": 1379,
+            "name": "ARMENIAN SMALL LETTER GIM"
+        }
+    ],
+    "r": [
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴦ",
+            "demical": 7462,
+            "name": "GREEK LETTER SMALL CAPITAL GAMMA"
+        },
+        {
+            "block": "Coptic",
+            "char": "ⲅ",
+            "demical": 11397,
+            "name": "COPTIC SMALL LETTER GAMMA"
+        },
+        {
+            "block": "Latin Extended-E",
+            "char": "ꭇ",
+            "demical": 43847,
+            "name": "LATIN SMALL LETTER R WITHOUT HANDLE"
+        },
+        {
+            "block": "Latin Extended-E",
+            "char": "ꭈ",
+            "demical": 43848,
+            "name": "LATIN SMALL LETTER DOUBLE R"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "г",
+            "demical": 1075,
+            "name": "CYRILLIC SMALL LETTER GHE"
+        }
+    ],
+    "s": [
+        {
+            "block": "Warang Citi",
+            "char": "𑣁",
+            "demical": 71873,
+            "name": "WARANG CITI SMALL LETTER A"
+        },
+        {
+            "block": "Deseret",
+            "char": "𐑈",
+            "demical": 66632,
+            "name": "DESERET SMALL LETTER ZHEE"
+        },
+        {
+            "block": "Latin Extended-B",
+            "char": "ƽ",
+            "demical": 445,
+            "name": "LATIN SMALL LETTER TONE FIVE"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "ѕ",
+            "demical": 1109,
+            "name": "CYRILLIC SMALL LETTER DZE"
+        },
+        {
+            "block": "Latin Extended-D",
+            "char": "ꜱ",
+            "demical": 42801,
+            "name": "LATIN LETTER SMALL CAPITAL S"
+        }
+    ],
+    "u": [
+        {
+            "block": "Latin Extended-D",
+            "char": "ꞟ",
+            "demical": 42911,
+            "name": "LATIN SMALL LETTER VOLAPUK UE"
+        },
+        {
+            "block": "Latin Extended-E",
+            "char": "ꭎ",
+            "demical": 43854,
+            "name": "LATIN SMALL LETTER U WITH SHORT RIGHT LEG"
+        },
+        {
+            "block": "IPA Extensions",
+            "char": "ʋ",
+            "demical": 651,
+            "name": "LATIN SMALL LETTER V WITH HOOK"
+        },
+        {
+            "block": "Latin Extended-E",
+            "char": "ꭒ",
+            "demical": 43858,
+            "name": "LATIN SMALL LETTER U WITH LEFT HOOK"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣘",
+            "demical": 71896,
+            "name": "WARANG CITI SMALL LETTER PU"
+        },
+        {
+            "block": "Greek and Coptic",
+            "char": "υ",
+            "demical": 965,
+            "name": "GREEK SMALL LETTER UPSILON"
+        },
+        {
+            "block": "Armenian",
+            "char": "ս",
+            "demical": 1405,
+            "name": "ARMENIAN SMALL LETTER SEH"
+        },
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴜ",
+            "demical": 7452,
+            "name": "LATIN LETTER SMALL CAPITAL U"
+        },
+        {
+            "block": "Osage",
+            "char": "𐓶",
+            "demical": 66806,
+            "name": "unknown"
+        }
+    ],
+    "v": [
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴠ",
+            "demical": 7456,
+            "name": "LATIN LETTER SMALL CAPITAL V"
+        },
+        {
+            "block": "Ahom",
+            "char": "𑜆",
+            "demical": 71430,
+            "name": "AHOM LETTER PA"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "ѵ",
+            "demical": 1141,
+            "name": "CYRILLIC SMALL LETTER IZHITSA"
+        },
+        {
+            "block": "Hebrew",
+            "char": "ט",
+            "demical": 1496,
+            "name": "HEBREW LETTER TET"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣀",
+            "demical": 71872,
+            "name": "WARANG CITI SMALL LETTER NGAA"
+        },
+        {
+            "block": "Greek and Coptic",
+            "char": "ν",
+            "demical": 957,
+            "name": "GREEK SMALL LETTER NU"
+        }
+    ],
+    "w": [
+        {
+            "block": "Cyrillic Supplement",
+            "char": "ԝ",
+            "demical": 1309,
+            "name": "CYRILLIC SMALL LETTER WE"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "ѡ",
+            "demical": 1121,
+            "name": "CYRILLIC SMALL LETTER OMEGA"
+        },
+        {
+            "block": "IPA Extensions",
+            "char": "ɯ",
+            "demical": 623,
+            "name": "LATIN SMALL LETTER TURNED M"
+        },
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴡ",
+            "demical": 7457,
+            "name": "LATIN LETTER SMALL CAPITAL W"
+        },
+        {
+            "block": "Armenian",
+            "char": "ա",
+            "demical": 1377,
+            "name": "ARMENIAN SMALL LETTER AYB"
+        },
+        {
+            "block": "Ahom",
+            "char": "𑜏",
+            "demical": 71439,
+            "name": "AHOM LETTER SA"
+        },
+        {
+            "block": "Ahom",
+            "char": "𑜊",
+            "demical": 71434,
+            "name": "AHOM LETTER JA"
+        },
+        {
+            "block": "Ahom",
+            "char": "𑜎",
+            "demical": 71438,
+            "name": "AHOM LETTER LA"
+        }
+    ],
+    "x": [
+        {
+            "block": "Unified Canadian Aboriginal Syllabics",
+            "char": "ᕽ",
+            "demical": 5501,
+            "name": "CANADIAN SYLLABICS HK"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "х",
+            "demical": 1093,
+            "name": "CYRILLIC SMALL LETTER HA"
+        },
+        {
+            "block": "Unified Canadian Aboriginal Syllabics",
+            "char": "ᕁ",
+            "demical": 5441,
+            "name": "CANADIAN SYLLABICS SAYISI YI"
+        }
+    ],
+    "y": [
+        {
+            "block": "Cyrillic",
+            "char": "у",
+            "demical": 1091,
+            "name": "CYRILLIC SMALL LETTER U"
+        },
+        {
+            "block": "Latin Extended-E",
+            "char": "ꭚ",
+            "demical": 43866,
+            "name": "LATIN SMALL LETTER Y WITH SHORT RIGHT LEG"
+        },
+        {
+            "block": "Georgian",
+            "char": "ყ",
+            "demical": 4327,
+            "name": "GEORGIAN LETTER QAR"
+        },
+        {
+            "block": "IPA Extensions",
+            "char": "ɣ",
+            "demical": 611,
+            "name": "LATIN SMALL LETTER GAMMA"
+        },
+        {
+            "block": "Latin Extended Additional",
+            "char": "ỿ",
+            "demical": 7935,
+            "name": "LATIN SMALL LETTER Y WITH LOOP"
+        },
+        {
+            "block": "Warang Citi",
+            "char": "𑣜",
+            "demical": 71900,
+            "name": "WARANG CITI SMALL LETTER HAR"
+        },
+        {
+            "block": "Greek and Coptic",
+            "char": "γ",
+            "demical": 947,
+            "name": "GREEK SMALL LETTER GAMMA"
+        },
+        {
+            "block": "Cyrillic",
+            "char": "ү",
+            "demical": 1199,
+            "name": "CYRILLIC SMALL LETTER STRAIGHT U"
+        },
+        {
+            "block": "IPA Extensions",
+            "char": "ʏ",
+            "demical": 655,
+            "name": "LATIN LETTER SMALL CAPITAL Y"
+        },
+        {
+            "block": "Phonetic Extensions Supplement",
+            "char": "ᶌ",
+            "demical": 7564,
+            "name": "LATIN SMALL LETTER V WITH PALATAL HOOK"
+        }
+    ],
+    "z": [
+        {
+            "block": "Warang Citi",
+            "char": "𑣄",
+            "demical": 71876,
+            "name": "WARANG CITI SMALL LETTER YA"
+        },
+        {
+            "block": "Phonetic Extensions",
+            "char": "ᴢ",
+            "demical": 7458,
+            "name": "LATIN LETTER SMALL CAPITAL Z"
+        }
+    ]
+}
