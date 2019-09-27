@@ -73,7 +73,7 @@ As a result of executing these, the following file is obtained.
                 "decimal": 616,
                 "lang": "IPA Extensions",
                 "name": "LATIN SMALL LETTER I WITH STROKE",
-                "Δ": 4
+                "delta": 4
             },
             
             			:
