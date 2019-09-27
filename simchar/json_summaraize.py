@@ -87,7 +87,7 @@ for i in file:
             m["name"] = name_detect(chr(int(x[4])))
             m["black_pixels"] = int(x[8])
             m["lang"] = lang_detect(int(x[4]))
-            m["Δ"] = convert_delta(x[6])
+            m["delta"] = convert_delta(x[6])
             sim.append(m)
             result_dic[x[0]]["similar_char"] = sim
         else:
@@ -98,7 +98,7 @@ for i in file:
             mm["name"] = name_detect(chr(int(x[4]))) 
             mm["black_pixels"] = int(x[8])
             mm["lang"] = lang_detect(int(x[4]))
-            mm["Δ"] = convert_delta(x[6])
+            mm["delta"] = convert_delta(x[6])
             result_dic[x[0]]["similar_char"].append(mm)
     else:
         w = v.split(":")
@@ -112,7 +112,7 @@ file.close()
 
 
 
-fw = open("u12_similar_char_list.json","w")
+fw = open("u12_similar_char_list2.json","w")
 
 json.dump(result_dic, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
 

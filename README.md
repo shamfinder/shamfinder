@@ -44,7 +44,7 @@ This database is consist of two files (**simchar.json** and **confusables_v12-1_
 
    - similar_char ... list of characters similar to original character (psnr >= 23.7)
 
-   - Δ  ... Indicates how many pixels are different from the base image
+   - delta  ... Indicates how many pixels are different from the base image
 
      
 
