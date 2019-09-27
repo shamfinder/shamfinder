@@ -32,11 +32,11 @@ This database is consist of two files (**simchar.json** and **confusables_v12-1_
 
     
 
-   - black_point ... the number of pixels whose RGB is (255, 255, 255)
+   - black_pixels ... the number of black pixels
 
    - codepoint ... codepoint is the number which represent single character
 
-   - demical ... codepoint(demical)
+   - decimal ... codepoint(decimal)
 
    - lang ... the name of the block to which the character belongs (<http://www.unicode.org/Public/UNIDATA/Blocks.txt>)
 
@@ -44,7 +44,7 @@ This database is consist of two files (**simchar.json** and **confusables_v12-1_
 
    - similar_char ... list of characters similar to original character (psnr >= 23.7)
 
-   - psnr ... PSNR(Peak signal-to-noise ratio) is a rate indicating how similar the images are (<https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio>) 
+   - Δ  ... Indicates how many pixels are different from the base image
 
      
 
@@ -60,20 +60,20 @@ As a result of executing these, the following file is obtained.
 
 ```
 "i": {
-        "black_point": 15,
+        "black_pixels": 15,
         "codepoint": "U+0069",
-        "demical": 105,
+        "decimal": 105,
         "lang": "Basic Latin",
         "name": "LATIN SMALL LETTER I",
         "similar_char": [
             {
-                "black_point": 19,
+                "black_pixels": 19,
                 "char": "ɨ",
                 "codepoint": "U+0268",
-                "demical": 616,
+                "decimal": 616,
                 "lang": "IPA Extensions",
                 "name": "LATIN SMALL LETTER I WITH STROKE",
-                "psnr": 27.96
+                "Δ": 4
             },
             
             			:
@@ -90,7 +90,7 @@ As a result of executing these, the following file is obtained.
 
 ### confusable_v12-1_in_draft.json
 
-This file shows characters that are similar to lowercase letters and characters that are similar to numbers based on the confusables.txt provided by the Unicode Consortium. And it is made based on the following conditions.
+This file shows characters that are similar to lowercase letters and numbers based on the confusables.txt provided by the Unicode Consortium. And it is made based on the following conditions.
 
 1. These characters are allowed to use IDNA by **IDNA2008 and Unicode 12.0.0** (<https://tools.ietf.org/id/draft-faltstrom-unicode12-00.html>)
 2. These characters have fonts in **unifont** (<http://unifoundry.com/unifont/index.html>)
@@ -104,13 +104,13 @@ This file shows characters that are similar to lowercase letters and characters 
         {
             "block": "Unified Canadian Aboriginal Syllabics",
             "char": "ᑲ",
-            "demical": 5234,
+            "decimal": 5234,
             "name": "CANADIAN SYLLABICS KA"
         },
         {
             "block": "Unified Canadian Aboriginal Syllabics",
             "char": "ᖯ",
-            "demical": 5551,
+            "decimal": 5551,
             "name": "CANADIAN SYLLABICS AIVILIK B"
         },
         

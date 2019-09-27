@@ -45,6 +45,11 @@ def name_detect(n):
         name = "unknown"
     return name
 
+def convert_delta(psnr):
+
+    delta = {"inf":0, "33.98":1, "30.97":2, "29.21":3, "27.96":4, "26.99":5, "26.2":6, "25.53":7, "24.95":8 ,"24.44":9, "23.98":10}
+
+    return delta[psnr]
 
 
 
@@ -70,30 +75,30 @@ for i in file:
         x = v.split(":")
         if len(list(result_dic[x[0]].keys())) == 0:
             result_dic[x[0]]["codepoint"] = x[3]
-            result_dic[x[0]]["demical"] = int(x[2])
+            result_dic[x[0]]["decimal"] = int(x[2])
             result_dic[x[0]]["name"] = name_detect(chr(int(x[2])))
-            result_dic[x[0]]["black_point"] = int(x[7])
+            result_dic[x[0]]["black_pixels"] = int(x[7])
             result_dic[x[0]]["lang"] = lang_detect(int(x[2]))
             sim = []
             m = {}
             m["char"] = x[1]    
             m["codepoint"] = x[5]
-            m["demical"] = int(x[4])
+            m["decimal"] = int(x[4])
             m["name"] = name_detect(chr(int(x[4])))
-            m["black_point"] = int(x[8])
+            m["black_pixels"] = int(x[8])
             m["lang"] = lang_detect(int(x[4]))
-            m["psnr"] = float(x[6])
+            m["Δ"] = convert_delta(x[6])
             sim.append(m)
             result_dic[x[0]]["similar_char"] = sim
         else:
             mm = {}
             mm["char"] = x[1]
             mm["codepoint"]=x[5]
-            mm["demical"] = int(x[4])
+            mm["decimal"] = int(x[4])
             mm["name"] = name_detect(chr(int(x[4]))) 
-            mm["black_point"] = int(x[8])
+            mm["black_pixels"] = int(x[8])
             mm["lang"] = lang_detect(int(x[4]))
-            mm["psnr"] = float(x[6])
+            mm["Δ"] = convert_delta(x[6])
             result_dic[x[0]]["similar_char"].append(mm)
     else:
         w = v.split(":")
