@@ -42,15 +42,15 @@ This database is consist of two files (**simchar.json** and **confusables_v12-1_
 
    - name ...character name decided by Unicode Consortium
 
-   - similar_char ... list of characters similar to original character (psnr >= 23.7)
+   - similar_char ... list of characters similar to original character
 
    - delta  ... Indicates how many pixels are different from the base image
 
      
 
-3. remove_less_10pixles.py
+3. remove_dissimilar.py
 
-   This file removes charactes with less than 10 pixels whose RGB is (255, 255, 255) from json file.
+   This file removes charactes with less than 10 black pixels and characters that differ from the base image by 7 or more pixels from json file.
 
 
 
