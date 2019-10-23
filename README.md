@@ -2,6 +2,11 @@
 
 Shamfinder is a framework that detects homograph IDN.
 
+This repository contains data code as described in our paper:
+
+H. Suzuki, D. Chiba, Y. Yoneya, T. Mori, and S. Goto, "ShamFinder: An Automated Framework for Detecting IDN Homographs," Proceedings of the 19th ACM  Internet Measurement Conference (IMC 2019),  pp. 449--462, October 2019 [PDF]
+
+https://dl.acm.org/authorize.cfm?key=N695002
 
 
 ## Homograph DB
